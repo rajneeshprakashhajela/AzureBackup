@@ -57,3 +57,26 @@ click on unmount after backup
 
 
 extra 2 volume disk will removed.. and our work done.
+
+
+If VM crased and VM not working then need to restore whole VM (File, folder)  <br/><br/>
+if backup done then only we can restore VM<br/>
+![image](https://user-images.githubusercontent.com/43515480/231513944-ef4ac213-d1e0-468d-a322-e62d8ac994ec.png)
+![image](https://user-images.githubusercontent.com/43515480/231514086-50b9ac4a-42a6-4a6f-af5e-b77dd09ccf70.png)
+![image](https://user-images.githubusercontent.com/43515480/231514146-53946f16-c611-4390-a7c3-9bd06690e9c7.png)
+![image](https://user-images.githubusercontent.com/43515480/231514169-0a2b79fb-bd54-4f09-92f7-668a0df8c109.png)
+
+new Virtual machine (for restore)
+![image](https://user-images.githubusercontent.com/43515480/231514329-4998ad3b-603f-4e1a-b682-15fedea9948f.png)
+![image](https://user-images.githubusercontent.com/43515480/231514632-956b6795-8f9f-4e18-9aec-3459d1edfcc6.png)
+![image](https://user-images.githubusercontent.com/43515480/231513959-1014d007-0876-4010-be6b-61deb259f533.png)
+![image](https://user-images.githubusercontent.com/43515480/231514770-f93dff8a-6ef5-4403-8a9f-a25581d07b3a.png)
+![image](https://user-images.githubusercontent.com/43515480/231514964-74a97b99-2f0f-41ea-83fd-04a70670bd37.png)
+![Uploading image.png…]()
+
+new Virtual machine (for restore)
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
