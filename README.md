@@ -28,3 +28,17 @@ Virtual Machine Backup
 ![image](https://user-images.githubusercontent.com/43515480/231507878-703414e0-b1ac-4dd0-a33f-bd46f6ad8b97.png)
 ![image](https://user-images.githubusercontent.com/43515480/231507910-ea7b6af7-23b6-4556-9b94-a5cd3f5e3d5d.png)
 ![image](https://user-images.githubusercontent.com/43515480/231508051-4bd0af98-ce47-4c85-a3d4-dbfb29e89273.png)
+![image](https://user-images.githubusercontent.com/43515480/231508791-9b97409d-ef83-40a2-b6d6-aedf42cac5ab.png)
+![image](https://user-images.githubusercontent.com/43515480/231508856-64c0786f-0a00-480e-9755-2451bc70f0cc.png)
+
+If backup failed or triggered or info <br/>
+
+![image](https://user-images.githubusercontent.com/43515480/231509001-2aa8c2c3-95b3-4d9c-8613-9ac8dcdd0c68.png)
+![image](https://user-images.githubusercontent.com/43515480/231510097-75db9826-b04a-40f7-ab6b-da4a0823aa1f.png)
+
+
+Let's Restore file <br/>
+
+![image](https://user-images.githubusercontent.com/43515480/231510474-ed001136-ef41-4d91-acde-e25671513fce.png)
+![image](https://user-images.githubusercontent.com/43515480/231510530-db960dee-29fe-41be-911a-922a0de01b95.png)
+![image](https://user-images.githubusercontent.com/43515480/231510554-b9656ee1-4311-4ba9-a4d1-80bf10e8edea.png)
