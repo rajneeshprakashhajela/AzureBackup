@@ -42,3 +42,18 @@ Let's Restore file <br/>
 ![image](https://user-images.githubusercontent.com/43515480/231510474-ed001136-ef41-4d91-acde-e25671513fce.png)
 ![image](https://user-images.githubusercontent.com/43515480/231510530-db960dee-29fe-41be-911a-922a0de01b95.png)
 ![image](https://user-images.githubusercontent.com/43515480/231510554-b9656ee1-4311-4ba9-a4d1-80bf10e8edea.png)
+
+![image](https://user-images.githubusercontent.com/43515480/231512150-778fe4bc-eba8-4ced-a54a-50049bee5b32.png)
+
+download exe <br/>
+go to virtual machine and open exe (it will ask password)<br/>
+go to restore again and copy password and paste here<br/>
+![image](https://user-images.githubusercontent.com/43515480/231512550-6e260629-7d12-4058-aa16-423b76a52bfe.png)
+![image](https://user-images.githubusercontent.com/43515480/231513014-c0ed2c68-b2df-4dd5-8f36-1bce9e506f62.png)
+![image](https://user-images.githubusercontent.com/43515480/231513057-38c091c4-7548-4442-8a97-e08aa0606b53.png)
+click on unmount after backup
+
+![image](https://user-images.githubusercontent.com/43515480/231513210-26e07ee5-ff9e-40a1-9e01-16d51708fed2.png)
+
+
+extra 2 volume disk will removed.. and our work done.
